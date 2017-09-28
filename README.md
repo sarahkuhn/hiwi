@@ -4,6 +4,8 @@ This document shows the current working status of all EP hiwis. Each hiwi should
 
 For details on using this file, consult the [Wiki](https://github.com/econpsychbasel/hiwi/wiki/home)
 
+Hiwi Group Email: <a href="mailto:hiwi_economic_psychology@googlegroups.com">hiwi_economic_psychology@googlegroups.com</a> 
+
 ### Current Status
 
 | Name   |  Status |    Date      |  Main Superviser |
