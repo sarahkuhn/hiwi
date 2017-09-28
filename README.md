@@ -1,5 +1,3 @@
-For details on using and updating this file, consult the [Wiki](https://github.com/econpsychbasel/hiwi/wiki/home)
-
 ### Hiwi Latest Status Updates
 
 | Name   |  Status |    Updated      |  Main Superviser |
@@ -21,3 +19,7 @@ Hiwi Group Email: <a href="mailto:hiwi_economic_psychology@googlegroups.com">hiw
 | <img width=50px src="images/free.png">|  Completely free and looking for work |
 | <img width=50px src="images/busy.png">|  Busy with one or more tasks but could work more | 
 | <img width=50px src="images/swamped.png">|  Totally swamped with work and cannot possibly take on more tasks  | 
+
+### How?
+
+For details on using and updating this file, consult the [Wiki](https://github.com/econpsychbasel/hiwi/wiki/home)
