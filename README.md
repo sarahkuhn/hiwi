@@ -1,7 +1,5 @@
 ### Hiwi Latest Status Updates
 
-TEST
-
 | Name   |  Status |    Updated      |  Main Superviser |
 |----------:|:-----|:-----:|:----------|
 |Maria K<br><a href="mailto:maria.kortmann@unibas.ch">maria.kortmann@unibas.ch</a>  | <img width=50px src="images/free.png"> |    28 Sep| Sebastian G.<br>  |
