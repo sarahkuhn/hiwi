@@ -2,12 +2,6 @@
 
 This document shows the current working status of all EP hiwis. Each hiwi should update their status at the beginning of each working week by editing their **Current Status**.
 
-
-Today is 
-<p>
-<script> document.write(new Date().toLocaleDateString()); </script>
-</p>
-
 ### Current Status
 
 | Name   |  Status |    Date      |  Main Superviser |
