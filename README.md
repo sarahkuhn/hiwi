@@ -2,7 +2,7 @@
 
 This document shows the current working status of all EP hiwis. Each hiwi should update their status at the beginning of each working week by editing their **Current Status**.
 
-To edit this document, click the Blue README.md link above, then click the pencil icon. Once you have made your edits, click the Green *Commit changes* button at the bottom of the screen.
+
 
 ### Current Status
 
@@ -33,6 +33,7 @@ To edit this document, click the Blue README.md link above, then click the penci
 
 **Hiwi**
 
+- To edit this document, click the Blue README.md link above, then click the pencil icon. Once you have made your edits, click the Green *Commit changes* button at the bottom of the screen.
 - Update your status in the **Current Status** table at the beginning of each week.
 - If you aren't swamped, and there is an open issue that has not yet been assigned, assign the issue to yourself.
 - When you assign an issue to yourself, use *comments* to discuss the task with the researcher.
