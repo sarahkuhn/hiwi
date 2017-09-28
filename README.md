@@ -2,7 +2,7 @@
 
 This document shows the current working status of all EP hiwis. Each hiwi should update their status at the beginning of each working week by editing their **Current Status**.
 
-For details on using this file, consult the [Instructions Wiki](https://github.com/econpsychbasel/hiwi/wiki/home)
+For details on using this file, consult the [Wiki](https://github.com/econpsychbasel/hiwi/wiki/home)
 
 ### Current Status
 
