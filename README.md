@@ -23,3 +23,14 @@ This document shows the current working status of all EP hiwis. Each hiwi should
 | 2 - Swamped|  Totally swamped with work and cannot possibly take on more tasks  | 
 
 
+### Instructions
+
+**Researcher**
+
+- Post new tasks as *Issues* on the issues page.
+
+**Hiwi**
+
+- Update your status in the **Current Status** table at the beginning of each week.
+- If you aren't swamped, and there is an open issue that has not yet been assigned, assign the issue to yourself.
+- When you assign an issue to yourself, use *comments* to discuss the task with the researcher.
