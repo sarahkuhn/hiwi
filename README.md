@@ -8,20 +8,20 @@ This document shows the current working status of all EP hiwis. Each hiwi should
 
 | Name   |  Main Superviser |    Status      |  Last Updated |
 |----------|:-----|:-------------:|------:|
-|Maria Kortmann | Sebastian G. | <img width=50px src="freesign.png"> |    28 Sep |
-| Sara Kuhn | Sebastian O., Nathaniel | <img width=50px src="freesign.png"> | 28 Sep |
-| Tehilla Mechera-Ostrowsky |Sebastian G. | <img width=50px src="freesign.png"> |    28 Sep |
-| Simon Peterhans | Laura, Sebastian G., Michael |  <img width=50px src="freesign.png">   |   28 Sep |
-| Florian Seitz | Rebecca |<img width=50px src="freesign.png"> |    28 Sep |
-| Kevin Trutmann | Sebastian G., Laura | <img width=50px src="freesign.png"> |    28 Sep |
+|Maria Kortmann | Sebastian G. | <img width=50px src="free.png"> |    28 Sep |
+| Sara Kuhn | Sebastian O., Nathaniel | <img width=50px src="free.png"> | 28 Sep |
+| Tehilla Mechera-Ostrowsky |Sebastian G. | <img width=50px src="free.png"> |    28 Sep |
+| Simon Peterhans | Laura, Sebastian G., Michael |  <img width=50px src="free.png">   |   28 Sep |
+| Florian Seitz | Rebecca |<img width=50px src="free.png"> |    28 Sep |
+| Kevin Trutmann | Sebastian G., Laura | <img width=50px src="free.png"> |    28 Sep |
 
 ### Status Description
 
 | Status|      Description      |  
 |----------|:-------------|
-| <img width=50px src="freesign.png">|  Completely free and looking for work |
-| 1 - Working|  Busy with one or more tasks but could work more | 
-| 2 - Swamped|  Totally swamped with work and cannot possibly take on more tasks  | 
+| <img width=50px src="free.png">|  Completely free and looking for work |
+| <img width=50px src="busy.png">|  Busy with one or more tasks but could work more | 
+| <img width=50px src="swamped.png">|  Totally swamped with work and cannot possibly take on more tasks  | 
 
 
 ### Instructions
