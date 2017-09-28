@@ -7,7 +7,7 @@ Hiwi Group Email: <a href="mailto:hiwi_economic_psychology@googlegroups.com">hiw
 ### Current Status
 
 | Name   |  Status |    Updated      |  Main Superviser |
-|----------:|:-----|:-----:|----------:|
+|----------:|:-----|:-----:|:----------|
 |Maria Kortmann<br><a href="mailto:maria.kortmann@unibas.ch">maria.kortmann@unibas.ch</a>  | <img width=50px src="images/free.png"> |    28 Sep| Sebastian G.<br>  |
 | Sara Kuhn<br><a href="mailto:sa.kuhn@unibas.ch">sa.kuhn@unibas.ch</a>  | <img width=50px src="images/free.png"> | 28 Sep| Sebastian O., Nathaniel  |
 | Tehilla Mechera-Ostrowsky<br><a href="mailto:t.mechera-ostrovsky@unibas.ch">t.mechera-ostrovsky@unibas.ch</a>  | <img width=50px src="images/free.png"> |    28 Sep |Sebastian G. |
