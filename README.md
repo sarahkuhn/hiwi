@@ -1,6 +1,6 @@
 This document shows the current working status of all EP hiwis.
 
-<span style="color:blue">some *blue* text</span>
+<font col="blue">some *blue* text</font>
 
 ### Current Status
 
