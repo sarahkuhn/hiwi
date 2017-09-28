@@ -8,12 +8,12 @@ This document shows the current working status of all EP hiwis. Each hiwi should
 
 | Name   |  Main Superviser |    Status      |  Last Updated |
 |----------|:-----|:-------------:|------:|
-|Maria Kortmann | Sebastian G. | <img width=50px src="free.png"> |    28 Sep |
-| Sara Kuhn | Sebastian O., Nathaniel | <img width=50px src="free.png"> | 28 Sep |
-| Tehilla Mechera-Ostrowsky |Sebastian G. | <img width=50px src="free.png"> |    28 Sep |
-| Simon Peterhans | Laura, Sebastian G., Michael |  <img width=50px src="free.png">   |   28 Sep |
-| Florian Seitz | Rebecca |<img width=50px src="free.png"> |    28 Sep |
-| Kevin Trutmann | Sebastian G., Laura | <img width=50px src="free.png"> |    28 Sep |
+|Maria Kortmann | <img width=50px src="free.png"> |    28 Sep| Sebastian G.  |
+| Sara Kuhn | <img width=50px src="free.png"> | 28 Sep| Sebastian O., Nathaniel  |
+| Tehilla Mechera-Ostrowsky | <img width=50px src="free.png"> |    28 Sep |Sebastian G. |
+| Simon Peterhans  |  <img width=50px src="free.png">   |   28 Sep| Laura, Sebastian G., Michael |
+| Florian Seitz |<img width=50px src="free.png"> |    28 Sep| Rebecca  |
+| Kevin Trutmann  | <img width=50px src="free.png"> |    28 Sep| Sebastian G., Laura |
 
 ### Status Description
 
