@@ -2,7 +2,7 @@
 
 This document shows the current working status of all EP hiwis. Each hiwi should update their status at the beginning of each working week by editing their **Current Status**.
 
-
+<img width=50px src="freesign.png">
 
 ### Current Status
 
