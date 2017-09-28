@@ -2,7 +2,7 @@
 
 This document shows the current working status of all EP hiwis. Each hiwi should update their status at the beginning of each working week by editing their **Current Status**.
 
-To edit this document, click the *Readme* link above, then click the pencil icon. Once you have made your edits, click the Green *Commit changes* button at the bottom of the screen.
+To edit this document, click the *README.md* link above, then click the pencil icon. Once you have made your edits, click the Green *Commit changes* button at the bottom of the screen.
 
 ### Current Status
 
