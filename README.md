@@ -1,5 +1,3 @@
-## EP Hiwi Task Management
-
 For details on using and updating this file, consult the [Wiki](https://github.com/econpsychbasel/hiwi/wiki/home)
 
 ### Latest Updates
