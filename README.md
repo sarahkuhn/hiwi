@@ -6,8 +6,8 @@ This document shows the current working status of all EP hiwis. Each hiwi should
 
 ### Current Status
 
-| Name   |  Main Superviser |    Status      |  Last Updated |
-|----------|:-----|:-------------:|------:|
+| Name   |  Status |    Date      |  Main Superviser |
+|----------|:-----|:-----:|----------:|
 |Maria Kortmann | <img width=50px src="free.png"> |    28 Sep| Sebastian G.  |
 | Sara Kuhn | <img width=50px src="free.png"> | 28 Sep| Sebastian O., Nathaniel  |
 | Tehilla Mechera-Ostrowsky | <img width=50px src="free.png"> |    28 Sep |Sebastian G. |
