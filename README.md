@@ -9,7 +9,7 @@ This document shows the current working status of all EP hiwis. Each hiwi should
 | Name   |  Main Superviser |    Status      |  Last Updated |
 |----------|:-----|:-------------:|------:|
 |Maria Kortmann | Sebastian G. | 0 - Available |    28 Sep |
-| Sara Kuhn | Sebastian O., Nathaniel 0 - Available | 28 Sep |
+| Sara Kuhn | Sebastian O., Nathaniel | 0 - Available | 28 Sep |
 | Tehilla Mechera-Ostrowsky |Sebastian G. | 0 - Available |    28 Sep |
 | Simon Peterhans | Laura, Sebastian G., Michael |   0 - Available   |   28 Sep |
 | Florian Seitz | Rebecca | 0 - Available |    28 Sep |
