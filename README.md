@@ -6,12 +6,11 @@ This document shows the current working status of all EP hiwis. Each hiwi should
 
 | Name   |      Status      |  Last Updated |
 |----------|:-------------:|------:|
-| Sara Kuhn |  0 - Available | 28 Sep |
-| Simon Peterhans |    0 - Available   |   28 Sep |
-| Kevin Trutmann | 0 - Available |    28 Sep |
-| Florian Seitz | 0 - Available |    28 Sep |
-| Tehilla Mechera-Ostrowsky | 0 - Available |    28 Sep |
 |Maria Kortmann | 0 - Available |    28 Sep |
+| Sara Kuhn |  0 - Available | 28 Sep |
+| Tehilla Mechera-Ostrowsky | 0 - Available |    28 Sep |
+| Simon Peterhans |    0 - Available   |   28 Sep |
+| Florian Seitz | 0 - Available |    28 Sep |
 | Kevin Trutmann | 0 - Available |    28 Sep |
 
 ### Status Description
