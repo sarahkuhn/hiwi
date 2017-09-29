@@ -3,7 +3,7 @@
 | Name   |  Status |    Updated      |  Main Superviser |
 |----------:|:-----|:-----:|:----------|
 |Maria K<br><a href="mailto:maria.kortmann@unibas.ch">maria.kortmann@unibas.ch</a>  | <img width=50px src="images/free.png"> |    28 Sep| Sebastian G.<br>  |
-| Sara K<br><a href="mailto:sa.kuhn@unibas.ch">sa.kuhn@unibas.ch</a>  | <img width=50px src="images/free.png"> | 28 Sep| Sebastian O., Nathaniel  |
+| Sarah K<br><a href="mailto:sa.kuhn@unibas.ch">sa.kuhn@unibas.ch</a>  | <img width=50px src="images/free.png"> | 28 Sep| Sebastian O., Nathaniel  |
 | Tehilla M-O<br><a href="mailto:t.mechera-ostrovsky@unibas.ch">t.mechera-ostrovsky@unibas.ch</a>  | <img width=50px src="images/free.png"> |    28 Sep |Sebastian G. |
 | Simon P<br><a href="mailto:simon.peterhans@unibas.ch">simon.peterhans@unibas.ch</a>   |  <img width=50px src="images/swamped.png">   |   29 Sep| Laura, Sebastian G., Michael |
 | Florian S<br><a href="mailto:florian.seitz@unibas.ch">florian.seitz@unibas.ch</a>  |<img width=50px src="images/free.png"> |    28 Sep| Rebecca  |
